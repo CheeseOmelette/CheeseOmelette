@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programando desde 2020.<br>📚 Atualmente reaprendendo React<br>🎯 Objetivos: Conseguir meu primeiro estágio e crescer como um desenvolvedor</p>
+<p align="left">✨ Programando desde 2020<br>📚 Atualmente reaprendendo React<br>🎯 Objetivos: Conseguir meu primeiro estágio e crescer como um desenvolvedor</p>
 
 ###
 
