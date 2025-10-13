@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Tenho experiência em:</h2>
+<h2 align="left">Atualmente tenho experiência em:</h2>
 
 ###
 
@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-<h2 align="left">No futuro:</h2>
+<h2 align="left">No futuro, pretendo estudar:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
