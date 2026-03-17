@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programando desde 2020<br>📚 Atualmente reaprendendo Spring<br>🎯 Objetivos: Conseguir meu primeiro estágio de desenvolvimento web e crescer como um desenvolvedor</p>
+<p align="left">✨ Programando desde 2020<br>📚 Atualmente em Spring<br>🎯 Objetivos: Conseguir meu primeiro emprego.</p>
 
 ###
 
